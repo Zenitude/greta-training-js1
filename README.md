@@ -3,3 +3,4 @@
 * Boucles
 * Fonctions
 * Tableaux
+* Affichage dans la console
