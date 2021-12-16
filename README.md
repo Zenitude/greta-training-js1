@@ -1,1 +1,5 @@
-# greta-training-js1
+# Exercice d'entrainement au JavaScript
+* Variables
+* Boucles
+* Fonctions
+* Tableaux
