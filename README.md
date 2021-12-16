@@ -1,4 +1,4 @@
-# Exercice d'entrainement au JavaScript
+# GRETA - Exercice d'entrainement au JavaScript
 * Variables
 * Boucles
 * Fonctions
